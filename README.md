@@ -1,0 +1,1 @@
+Call mandala(number of generated circles)
